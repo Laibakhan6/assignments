@@ -1,0 +1,11 @@
+C:\Users\Students\Desktop\C#\menustrip\menustrip\bin\Debug\menustrip.exe.config
+C:\Users\Students\Desktop\C#\menustrip\menustrip\bin\Debug\menustrip.exe
+C:\Users\Students\Desktop\C#\menustrip\menustrip\bin\Debug\menustrip.pdb
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.Form1.resources
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.Properties.Resources.resources
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.exe
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.pdb
+C:\Users\Students\Desktop\C#\menustrip\menustrip\obj\Debug\menustrip.Properties.log.resources

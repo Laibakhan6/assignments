@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marksheet", "marksheet\marksheet.csproj", "{F3F46A7D-DB41-40DC-A67A-84E432A4533D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F46A7D-DB41-40DC-A67A-84E432A4533D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F46A7D-DB41-40DC-A67A-84E432A4533D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F46A7D-DB41-40DC-A67A-84E432A4533D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F46A7D-DB41-40DC-A67A-84E432A4533D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16313A2-D68E-4C27-9D79-8D0E1FD9792C}
+	EndGlobalSection
+EndGlobal
